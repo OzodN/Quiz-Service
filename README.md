@@ -53,7 +53,7 @@ src/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/quiz-service.git
+   git clone https://github.com/OzodN/quiz-service.git
 2. Navigate into the project folder:
 ``` 
  cd quiz-service

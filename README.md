@@ -5,6 +5,8 @@ This project allows **teachers** to create and manage quizzes, while **students*
 
 It is designed with **Object-Oriented Programming (OOP)** principles and structured into layers for easy maintenance.
 
+NOTE: this project was made while studing prosess, so it might not gonna work properly!
+
 ---
 
 ## ✨ Features
